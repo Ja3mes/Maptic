@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maptic</string>
+    <string name="settings">Settings</string>
+    <string name="map">Map</string>
+    <string name="filters">Filters</string>
+    <string name="favourites">Favourites</string>
+    <string name="location">Current Location</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibmFiZWVsamFkd2F0IiwiYSI6ImNrcGlvcnBtdzFkbXEycHJpaHNmcWc5djgifQ.q_epE1PNASDv5vPovqYhLA</string>
+</resources>

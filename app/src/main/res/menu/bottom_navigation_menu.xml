@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/map"
+        android:enabled="true"
+        android:icon="@drawable/ic_sharp_map_24"
+        android:title="@string/map"/>
+    <item
+        android:id="@+id/filters"
+        android:enabled="true"
+        android:icon="@drawable/ic_sharp_tune_24"
+        android:title="@string/filters"/>
+    <item
+        android:id="@+id/favourites"
+        android:enabled="true"
+        android:icon="@drawable/ic_sharp_star_24"
+        android:title="@string/favourites"/>
+    <item
+        android:id="@+id/settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_sharp_settings_24"
+        android:title="@string/settings"/>
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577113572608",
+    "project_id": "maptic-ed871",
+    "storage_bucket": "maptic-ed871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577113572608:android:4da5489cc7199f23af9fe5",
+        "android_client_info": {
+          "package_name": "com.vc.maptic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577113572608-fvb20guk4pa4ocbnmt0r82ds5duplas5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrKBr24UW_5Vx7o29SZT25EoCx7i5V0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577113572608-fvb20guk4pa4ocbnmt0r82ds5duplas5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
